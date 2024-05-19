@@ -5,7 +5,7 @@ build: README.md
 		--metadata-file ./metadata.yaml \
 		--template pyscript.html \
 		-i README.md \
-		-o build/index.html
+		-o docs/index.html
 
 serve:
 	env python -m http.server --directory build
