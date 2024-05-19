@@ -1,6 +1,6 @@
 # Pyscript + Panflute
 
-> [Example Page](https://ekiim.github.io/panflute-pyscript/)
+> [Example Page](https://ekiim.github.io/panflute-pyscript/) | [Repo](https://github.com/ekiim/panflute-pyscript)
 
 This repository contains an example of how to use a **filter** to convert Python code blocks into interactive blocks in HTML documents built from markdown files using Pandoc.
 
